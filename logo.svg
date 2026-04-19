@@ -4,11 +4,11 @@
     <!-- Roof triangle -->
     <polygon
       points="42,4 78,32 6,32"
-      fill="#1B5E3B"
+      fill="#1B3A6B"
     />
     <!-- Door arch notch in roof (optional accent line) -->
     <!-- Walls rectangle -->
-    <rect x="14" y="32" width="56" height="48" fill="#1B5E3B" rx="1"/>
+    <rect x="14" y="32" width="56" height="48" fill="#1B3A6B" rx="1"/>
     <!-- Door cutout -->
     <rect x="30" y="54" width="20" height="26" fill="#FDFAF5" rx="3"/>
     <!-- Window cutout left -->
@@ -24,7 +24,7 @@
     font-family="Montserrat, Arial Black, sans-serif"
     font-weight="800"
     font-size="54"
-    fill="#1B5E3B"
+    fill="#1B3A6B"
     letter-spacing="-1"
   >JAR</text>
 

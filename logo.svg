@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <!-- House icon: geometric minimal roof + walls -->
+  <g id="icon" transform="translate(18, 18)">
+    <!-- Roof triangle -->
+    <polygon
+      points="42,4 78,32 6,32"
+      fill="#1B5E3B"
+    />
+    <!-- Door arch notch in roof (optional accent line) -->
+    <!-- Walls rectangle -->
+    <rect x="14" y="32" width="56" height="48" fill="#1B5E3B" rx="1"/>
+    <!-- Door cutout -->
+    <rect x="30" y="54" width="20" height="26" fill="#FDFAF5" rx="3"/>
+    <!-- Window cutout left -->
+    <rect x="18" y="40" width="10" height="10" fill="#FDFAF5" rx="1.5"/>
+    <!-- Window cutout right -->
+    <rect x="56" y="40" width="10" height="10" fill="#FDFAF5" rx="1.5"/>
+  </g>
+
+  <!-- JAR wordmark -->
+  <text
+    x="108"
+    y="78"
+    font-family="Montserrat, Arial Black, sans-serif"
+    font-weight="800"
+    font-size="54"
+    fill="#1B5E3B"
+    letter-spacing="-1"
+  >JAR</text>
+
+  <!-- DESARROLLADORA subtext -->
+  <text
+    x="110"
+    y="100"
+    font-family="Montserrat, Arial, sans-serif"
+    font-weight="600"
+    font-size="13"
+    fill="#E85D04"
+    letter-spacing="4"
+  >DESARROLLADORA</text>
+</svg>
